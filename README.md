@@ -1,72 +1,72 @@
-👋 Hi, I’m Bharath Reddy
+# 👋 Hi, I’m Bharath Reddy
 
-Data Analyst | Business Analyst
+## Data Analyst | Business Analyst
 
 I work with data to solve business problems and support decision-making. My focus is on analyzing customer behavior, defining meaningful KPIs, and presenting insights through clear reports and dashboards.
 
-🧠 Skills
+---
 
-Languages & Analysis
+## 🧠 Skills
 
-Python (Pandas, NumPy)
+**Languages & Analysis**
 
-SQL, MySQL
+* Python (Pandas, NumPy)
+* SQL, MySQL
 
-Visualization & Reporting
+**Visualization & Reporting**
 
-Power BI
+* Power BI
+* Excel
+* Matplotlib, Seaborn
 
-Excel
+**Tools**
 
-Matplotlib, Seaborn
+* Jupyter Notebook
+* Git & GitHub
+* C
 
-Tools
+---
 
-Jupyter Notebook
+## 📌 Projects
 
-Git & GitHub
+### 📊 Customer Shopping Behavioral Analysis
 
-C
+* Analyzed customer purchase data to identify shopping patterns and trends
+* Segmented customers based on behavioral metrics
+* Created KPI-driven dashboards to support business decisions
 
-📌 Projects
-📊 Customer Shopping Behavioral Analysis
+### 🛒 Cross-Selling Marketing Strategy
 
-Analyzed customer purchase data to identify shopping patterns and trends
+* Analyzed transactional data to identify cross-selling opportunities
+* Studied product associations to improve marketing effectiveness
+* Generated insights to increase average order value
 
-Segmented customers based on behavioral metrics
+---
 
-Created KPI-driven dashboards to support business decisions
+## 🔍 Areas of Focus
 
-🛒 Cross-Selling Marketing Strategy
+* Customer behavior analysis
+* KPI definition and reporting
+* Data-driven marketing and business insights
 
-Analyzed transactional data to identify cross-selling opportunities
+---
 
-Studied product associations to improve marketing effectiveness
+## 📈 Currently Learning
 
-Generated insights to increase average order value
+* Advanced SQL for analytics
+* Power BI dashboard storytelling
+* Data modeling concepts
 
-🔍 Areas of Focus
+---
 
-Customer behavior analysis
+## 🎯 Career Objective
 
-KPI definition and reporting
+Seeking entry-level **Data Analyst** or **Business Analyst** roles where data is used to drive real business decisions.
 
-Data-driven marketing and business insights
+---
 
-📈 Currently Learning
+## 📬 Contact
 
-Advanced SQL for analytics
+* LinkedIn: http://linkedin.com/in/bharath-reddy-6829b6292
+* Email: nallabharathreddy05@gmail.com
 
-Power BI dashboard storytelling
-
-Data modeling concepts
-
-🎯 Career Objective
-
-Seeking entry-level Data Analyst or Business Analyst roles where data is used to drive real business decisions.
-
-📬 Contact
-
-LinkedIn: http://linkedin.com/in/bharath-reddy-6829b6292
-
-Email: nallabharathreddy05@gmail.com
