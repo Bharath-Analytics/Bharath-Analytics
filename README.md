@@ -1,4 +1,5 @@
 👋 Hi, I’m Bharath Reddy
+
 Data Analyst | Business Analyst
 
 I work with data to solve business problems and support decision-making. My focus is on analyzing customer behavior, defining meaningful KPIs, and presenting insights through clear reports and dashboards.
